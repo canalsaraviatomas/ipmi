@@ -1,4 +1,4 @@
-// tp1 Tomás Canal Saravia 91449/3
+// tp1 Tomás Canal Saravia Com 3. 91449/3
 
 PImage img;
 
